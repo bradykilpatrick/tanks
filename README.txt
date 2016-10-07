@@ -1,0 +1,1 @@
+I increase starting health and made shots occasionally regenerate health.
